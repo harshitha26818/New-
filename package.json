@@ -1,0 +1,24 @@
+{
+  "name": "new-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "justhi": "echo this is just hi",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitha26818/New-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshitha26818/New-/issues"
+  },
+  "homepage": "https://github.com/harshitha26818/New-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
